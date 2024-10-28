@@ -1,0 +1,35 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.instagram-post {
+    width: 350px;
+    border: 1px solid #dbdbdb;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    height: 24px;
+}
+
+.post-image {
+    width: 100%;
+    height: auto;
+}
+
+.post-date {
+    font-size: 12px;
+    color: #888;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #0095f6;
+    border: none;
+    font-size: 14px;
+}
